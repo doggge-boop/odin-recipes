@@ -1,0 +1,40 @@
+* {
+    font-family: "Tahoma";
+    font-size: 20px;
+}
+
+
+h1 {
+    font-family: Georgia, "Times New Roman", Times, sans-serif;
+    text-align: center;
+    font-size: 80px;   
+    color: rgb(129, 29, 129)
+}
+
+h2, h3 {
+    color: rgb(1, 173, 173);
+}
+
+h4 {
+    font-size: 18px;
+}
+
+.button-text {
+    font-weight: 800;
+    font-size: 20px;
+    color: rgb(1, 173, 173);
+}
+
+
+.home-button {
+    background-color: rgb(138, 91, 138);
+    border-radius: 20px;
+}
+
+.home-img {
+    border-radius: 50px;
+}
+
+#title {
+    font-size: 100px;
+}
