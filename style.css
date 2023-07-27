@@ -1,6 +1,7 @@
 * {
     font-family: "Tahoma";
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 
@@ -21,7 +22,7 @@ h4 {
 
 .button-text {
     font-weight: 800;
-    font-size: 20px;
+    font-size: 36px;
     color: rgb(1, 173, 173);
 }
 
@@ -35,6 +36,59 @@ h4 {
     border-radius: 50px;
 }
 
+.main-img {
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+.main-button {
+    border-radius: 10px;
+    border-color: plum;
+    margin: 20px;
+}
+
+.div-main {
+    padding: 0px 100px;
+}
+
 #title {
     font-size: 100px;
+}
+
+.picture-card {
+    border-color: rgb(138, 91, 138);
+    border-style: dashed;
+    border-radius: 25px;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+}
+
+.card {
+    display: inline-block;
+    margin: 10px auto
+}
+
+.recipe-heading {
+    font-size: 60px
+}
+
+.recipe-img {
+    margin:auto;
+}
+
+.recipe-img-card {
+    margin:auto;
+    width: 500px;
+}
+
+.main-recipe-div {
+    border-radius: 200px;
+    border-color: plum;
+    border-width: 7px;
+    border-style: dashed;
+    padding:15px;
+    width: 1000px;
+    margin: auto;
 }
